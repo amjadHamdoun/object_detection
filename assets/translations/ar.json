@@ -1,0 +1,35 @@
+{
+
+  "Customer Car Details": "تفاصيل سيارة العميل",
+  "Date:": "تاريخ:",
+  "Remark:": "ملاحظة:",
+  "Start Trip": "بدء الرحلة",
+  "End Trip": "انهاء الرحلة",
+  "Forgot Password?": "هل نسيت كلمة السر؟",
+  "Don't have an account?": "ليس لديك حساب؟",
+  "SIGN UP": "إنشاء حساب",
+  "Login": "تسجيل الدخول",
+  "Welcome Back": "مرحبًا بعودتك",
+  "Email": "البريد إلالكتروني",
+  "Password": "كلمة المرور",
+
+  "Customers": "عملاء",
+  "History": "تاريخ",
+  "settings": "إعدادات",
+  "Customers Cars": "سيارات العملاء",
+  "Socket Is Disconnected": "Socket غير متصل",
+  "Server is not working properly": "الخادم لا يعمل بشكل صحيح",
+  "Not Completed": "غير مكتمل",
+  "Completed": "مكتمل",
+  "Settings": "إعدادات",
+  "Change Language": "تغيير اللغة",
+  "Select Language": "اختار اللغة",
+  "Current Trip to :": "الرحلة الحالية إلى :",
+  "Customer Name :": "اسم العميل :",
+  "Exit": "خروج",
+  "Are You Sure You want to close the App": "هل أنت متأكد أنك تريد إغلاق التطبيق؟",
+  "Cancel": "الغاء",
+  "Confirm": "تأكيد"
+
+
+}
